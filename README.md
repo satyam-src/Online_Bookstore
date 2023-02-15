@@ -1,7 +1,6 @@
 # 
 
 - A Java Web Developement Project
-- **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
 - Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)
 - User Login Credentials: (satyam/satyam)
 - Admin Login Credentials: (Admin/Admin)
@@ -134,4 +133,4 @@ Note:- Considering that this is a Sample Project, we have used a Generic Servlet
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Satyam Gupta</b>
